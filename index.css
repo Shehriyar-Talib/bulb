@@ -8,7 +8,7 @@ h1{
 }
 #container{
     height: 100vh;
-    /* width: 1000px; */
+    width: 1000px;
     display: flex;
     flex-direction: column;
     align-items: center;
